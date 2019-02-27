@@ -7,4 +7,6 @@ try {
 catch (PDOException $e) {
   echo "Connection failed: " . $e->getMessage();
 }
+
+// this Dave teaching Dan how to add and push to git
 ?>
